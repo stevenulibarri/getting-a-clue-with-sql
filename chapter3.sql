@@ -1,0 +1,1 @@
+select distinct occupation from suspects;
